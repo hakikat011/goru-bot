@@ -1,0 +1,228 @@
+[
+  {
+    "id": "startup-bundle",
+    "type": "bundle",
+    "category": "products",
+    "title": "Startup Bundle - All 6 Resources",
+    "name": "Startup Bundle",
+    "description": "Complete package with everything needed to launch your startup",
+    "price": "$104.55 AUD",
+    "currency": "AUD",
+    "includes": [
+      "Startup Toolkit eBook (120 pages, full color)",
+      "Business Plan Template (Word, 14 pages)",
+      "Pitch Deck Template (PowerPoint, 20 pages)",
+      "Cash Flow Forecast (Excel)",
+      "Project Plan (Excel Gantt Chart)",
+      "Task List (Excel)"
+    ],
+    "benefits": [
+      "Everything you need in one package",
+      "Save time with ready-to-use templates",
+      "Professional formatting and guidance",
+      "Comprehensive coverage of startup stages 1-3",
+      "Integrated risk management framework"
+    ],
+    "keywords": [
+      "bundle",
+      "all-in-one",
+      "complete toolkit",
+      "startup package",
+      "templates",
+      "comprehensive"
+    ],
+    "links": ["https://www.goruworld.com/shop/"],
+    "source": "products.json"
+  },
+  {
+    "id": "startup-toolkit-ebook",
+    "type": "product",
+    "category": "products",
+    "title": "Startup Toolkit eBook",
+    "name": "Startup Toolkit",
+    "description": "Comprehensive 120-page guide for founders with full-color illustrations",
+    "price": "$18.17 AUD",
+    "currency": "AUD",
+    "format": "PDF",
+    "pages": 120,
+    "color": "Full color with illustrations",
+    "published": "December 5, 2024",
+    "content": [
+      "Startup Lifecycle guidance (Stages 1-3)",
+      "Risk management framework",
+      "Practical examples and case studies",
+      "Startup terminology glossary",
+      "Action steps and checklists"
+    ],
+    "keywords": [
+      "ebook",
+      "guide",
+      "toolkit",
+      "learning",
+      "startup",
+      "founder",
+      "comprehensive"
+    ],
+    "links": [
+      "https://www.goruworld.com/shop/",
+      "https://www.amazon.com",
+      "https://www.goodreads.com",
+      "https://www.gumroad.com"
+    ],
+    "source": "products.json"
+  },
+  {
+    "id": "business-plan-template",
+    "type": "template",
+    "category": "products",
+    "title": "Business Plan Template",
+    "name": "Business Plan Template",
+    "description": "Professional Word template for creating your startup business plan",
+    "format": "Microsoft Word",
+    "pages": 14,
+    "price": "$34.99 AUD",
+    "currency": "AUD",
+    "sections": [
+      "Executive Summary",
+      "Company Description",
+      "Market Analysis",
+      "Organization & Management",
+      "Service/Product Line",
+      "Marketing & Sales Strategy",
+      "Financial Projections",
+      "Appendix"
+    ],
+    "keywords": [
+      "business plan",
+      "template",
+      "planning",
+      "strategy",
+      "word",
+      "document"
+    ],
+    "links": ["https://www.goruworld.com/shop/"],
+    "source": "products.json"
+  },
+  {
+    "id": "pitch-deck-template",
+    "type": "template",
+    "category": "products",
+    "title": "Pitch Deck Template",
+    "name": "Pitch Deck Template",
+    "description": "Professional PowerPoint template for presenting to investors",
+    "format": "Microsoft PowerPoint",
+    "pages": 20,
+    "price": "$34.99 AUD",
+    "currency": "AUD",
+    "slides": [
+      "Title Slide",
+      "Problem Statement",
+      "Solution",
+      "Market Opportunity",
+      "Business Model",
+      "Traction",
+      "Team",
+      "Financial Projections",
+      "Ask",
+      "Contact"
+    ],
+    "keywords": [
+      "pitch deck",
+      "presentation",
+      "investors",
+      "funding",
+      "powerpoint",
+      "slides"
+    ],
+    "links": ["https://www.goruworld.com/shop/"],
+    "source": "products.json"
+  },
+  {
+    "id": "cash-flow-template",
+    "type": "template",
+    "category": "products",
+    "title": "Cash Flow Forecast Template",
+    "name": "Cash Flow Forecast",
+    "description": "Advanced Excel spreadsheet for financial forecasting",
+    "format": "Microsoft Excel",
+    "price": "$49.99 AUD",
+    "currency": "AUD",
+    "features": [
+      "Monthly cash flow projections",
+      "Revenue forecasting",
+      "Expense tracking",
+      "Scenario analysis",
+      "Built-in formulas",
+      "Charts and visualizations"
+    ],
+    "keywords": [
+      "cash flow",
+      "financial",
+      "forecast",
+      "excel",
+      "budget",
+      "money"
+    ],
+    "links": ["https://www.goruworld.com/shop/"],
+    "source": "products.json"
+  },
+  {
+    "id": "project-plan-template",
+    "type": "template",
+    "category": "products",
+    "title": "Project Plan Template",
+    "name": "Project Plan (Gantt Chart)",
+    "description": "Excel Gantt chart for project timeline and milestone tracking",
+    "format": "Microsoft Excel",
+    "price": "$34.99 AUD",
+    "currency": "AUD",
+    "features": [
+      "Gantt chart visualization",
+      "Task dependencies",
+      "Milestone tracking",
+      "Resource allocation",
+      "Timeline management",
+      "Progress tracking"
+    ],
+    "keywords": [
+      "project plan",
+      "gantt",
+      "timeline",
+      "schedule",
+      "excel",
+      "tasks"
+    ],
+    "links": ["https://www.goruworld.com/shop/"],
+    "source": "products.json"
+  },
+  {
+    "id": "task-list-template",
+    "type": "template",
+    "category": "products",
+    "title": "Startup Task List",
+    "name": "Task List",
+    "description": "Excel spreadsheet for organizing startup launch tasks",
+    "format": "Microsoft Excel",
+    "price": "$19.99 AUD",
+    "currency": "AUD",
+    "features": [
+      "Task organization",
+      "Priority levels",
+      "Due dates",
+      "Status tracking",
+      "Owner assignment",
+      "Notes and comments"
+    ],
+    "keywords": [
+      "task list",
+      "tasks",
+      "checklist",
+      "todo",
+      "excel",
+      "organization"
+    ],
+    "links": ["https://www.goruworld.com/shop/"],
+    "source": "products.json"
+  }
+]
+

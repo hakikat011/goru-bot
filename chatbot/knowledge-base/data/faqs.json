@@ -1,0 +1,143 @@
+[
+  {
+    "id": "faq-001",
+    "category": "products",
+    "question": "What's included in the Startup Bundle?",
+    "answer": "The Startup Bundle includes six essential resources: the Startup Toolkit eBook (120 pages), Business Plan Template, Pitch Deck Template, Cash Flow Forecast, Project Plan (Gantt Chart), and Task List. Everything you need to plan and launch your startup.",
+    "keywords": ["bundle", "included", "what's in", "contents"],
+    "relatedResources": [
+      {
+        "title": "View the Startup Bundle",
+        "url": "https://www.goruworld.com/shop/"
+      }
+    ],
+    "source": "faqs.json"
+  },
+  {
+    "id": "faq-002",
+    "category": "pricing",
+    "question": "How much does the Startup Bundle cost?",
+    "answer": "The Startup Bundle is $104.55 AUD (including GST). This gives you all six resources at a significant discount compared to purchasing them individually.",
+    "keywords": ["price", "cost", "how much", "pricing"],
+    "relatedResources": [
+      {
+        "title": "Shop Now",
+        "url": "https://www.goruworld.com/shop/"
+      }
+    ],
+    "source": "faqs.json"
+  },
+  {
+    "id": "faq-003",
+    "category": "products",
+    "question": "Can I buy products individually?",
+    "answer": "Yes! All products are available for individual purchase. The eBook is $18.17 AUD, templates range from $19.99 to $49.99 AUD. However, the Bundle offers the best value if you need multiple resources.",
+    "keywords": ["individual", "separate", "single", "purchase"],
+    "relatedResources": [
+      {
+        "title": "Browse All Products",
+        "url": "https://www.goruworld.com/shop/"
+      }
+    ],
+    "source": "faqs.json"
+  },
+  {
+    "id": "faq-004",
+    "category": "access",
+    "question": "How do I access my purchase?",
+    "answer": "After purchase, you'll receive an email with download links to all your products. You can download them immediately and access them on any device. No refunds are available due to the digital nature of the products.",
+    "keywords": ["access", "download", "email", "receive"],
+    "relatedResources": [
+      {
+        "title": "Contact Support",
+        "url": "mailto:info@goruworld.com"
+      }
+    ],
+    "source": "faqs.json"
+  },
+  {
+    "id": "faq-005",
+    "category": "licensing",
+    "question": "Can I share my purchase with others?",
+    "answer": "Each license is for a single user. If you need to share with team members, you can purchase multiple licenses. Contact us at info@goruworld.com for multi-user licensing options.",
+    "keywords": ["share", "team", "multiple users", "licensing"],
+    "relatedResources": [
+      {
+        "title": "Contact Us",
+        "url": "mailto:info@goruworld.com"
+      }
+    ],
+    "source": "faqs.json"
+  },
+  {
+    "id": "faq-006",
+    "category": "methodology",
+    "question": "What is the Startup Lifecycle?",
+    "answer": "The Startup Lifecycle is Gōru's framework for understanding the startup journey. It includes five stages: The Idea, Business Planning, Up & Running, Scale Up & Growth, and Profitability. Our Startup Toolkit covers the first three stages in detail.",
+    "keywords": ["lifecycle", "stages", "framework", "methodology"],
+    "relatedResources": [
+      {
+        "title": "Learn More in the Startup Toolkit",
+        "url": "https://www.goruworld.com/shop/"
+      }
+    ],
+    "source": "faqs.json"
+  },
+  {
+    "id": "faq-007",
+    "category": "methodology",
+    "question": "What is the 52 Risks framework?",
+    "answer": "The 52 Risks framework, created by Peter Deans, identifies and categorizes startup risks into three main areas: Strategic Risks, Financial Risks, and Operational Risks. It helps founders identify and plan for potential challenges from day one.",
+    "keywords": ["52 risks", "framework", "risk management", "risks"],
+    "relatedResources": [
+      {
+        "title": "Learn More About Risk Management",
+        "url": "https://www.goruworld.com/shop/"
+      }
+    ],
+    "source": "faqs.json"
+  },
+  {
+    "id": "faq-008",
+    "category": "support",
+    "question": "I can't access my eBook. What should I do?",
+    "answer": "First, check your email for the download link. If you can't find it, check your spam folder. If you still need help, contact our support team at info@goruworld.com or call +61 402 222 193. We're here to help!",
+    "keywords": ["access", "download", "problem", "issue", "help"],
+    "relatedResources": [
+      {
+        "title": "Contact Support",
+        "url": "mailto:info@goruworld.com"
+      }
+    ],
+    "source": "faqs.json"
+  },
+  {
+    "id": "faq-009",
+    "category": "products",
+    "question": "What format are the templates in?",
+    "answer": "Templates are provided in standard Microsoft Office formats: Business Plan and Pitch Deck are in PowerPoint/Word, while Cash Flow, Project Plan, and Task List are Excel spreadsheets. You'll need Microsoft Office or compatible software to edit them.",
+    "keywords": ["format", "templates", "excel", "word", "powerpoint"],
+    "relatedResources": [
+      {
+        "title": "View Templates",
+        "url": "https://www.goruworld.com/shop/"
+      }
+    ],
+    "source": "faqs.json"
+  },
+  {
+    "id": "faq-010",
+    "category": "getting-started",
+    "question": "I'm a first-time founder. Where should I start?",
+    "answer": "Great question! We recommend starting with the Startup Toolkit eBook to understand the overall process. Then use the Business Plan template to structure your idea. The Startup Bundle includes everything you need and is our most popular choice for new founders.",
+    "keywords": ["first-time", "beginner", "new founder", "start", "beginning"],
+    "relatedResources": [
+      {
+        "title": "Get the Startup Bundle",
+        "url": "https://www.goruworld.com/shop/"
+      }
+    ],
+    "source": "faqs.json"
+  }
+]
+
